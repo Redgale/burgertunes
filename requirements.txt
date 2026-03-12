@@ -1,4 +1,4 @@
 flask
 waitress
-https://github.com/yt-dlp/yt-dlp/archive/master.tar.gz
 ytmusicapi
+yt-dlp>=2025.01.01
