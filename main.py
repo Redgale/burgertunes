@@ -10,7 +10,7 @@ from flask import Flask, render_template, request, url_for, flash, redirect, ses
 
 # Change the host and port
 HOST = "0.0.0.0"
-PORT = 8000
+PORT = 81
 
 print("Server started")
 
